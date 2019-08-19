@@ -6,5 +6,8 @@ def name=(dog_name)
 def name 
   @the_good_bois 
   end
+def bark
+  puts "woof!"
+  end
 end
 
